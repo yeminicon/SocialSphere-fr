@@ -1,0 +1,7 @@
+.header{
+    background: url(../../public/assets/banner-img-1.jpg);
+    background-size: cover;
+}
+.lang {
+  width: max-content;
+}
